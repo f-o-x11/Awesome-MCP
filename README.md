@@ -248,6 +248,7 @@ Legend: ✅ = Official / reference project · Transport: `stdio`/`sse`/`remote`
 
 - [Brave Search MCP](https://github.com/brave/brave-search-mcp-server) `stdio` — Web search via Brave Search API. — `search`, `api`
 - [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp) `remote` — Real-time product search and price comparison across 148M+ products from Singapore, Southeast Asia, and US marketplaces via remote streamable-HTTP. — `search`, `ecommerce`, `api`
+- [deed.page](https://deed.page/docs) ✅ `remote` — Hosted Streamable HTTP server whose publish_site tool puts an HTML file, a static folder, or a JSON file map at a permanent https://{slug}.deed.page/ URL; no account or key to publish, and the owner token from the first publish covers updates, versions, and custom domains. — `hosting`, `static-sites`, `publishing`, `deployment`
 - [Fetch Server](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) ✅ `stdio` — Fetch and convert web pages to markdown for LLM consumption. — `http`, `scraping`
 - [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) `remote` — Search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Booking finishes in the iOS app. Remote streamable HTTP at https://pocketdrives.ai/mcp. — `search`, `travel`, `rental`
 

@@ -617,3 +617,13 @@ entries:
     transport: [remote]
     official: true
     tags: [knowledge, automation, self-hosted, typescript]
+
+  - id: deed-page
+    name: deed.page
+    kind: server
+    category: web
+    url: https://deed.page/docs
+    description: Hosted Streamable HTTP server whose publish_site tool puts an HTML file, a static folder, or a JSON file map at a permanent https://{slug}.deed.page/ URL; no account or key to publish, and the owner token from the first publish covers updates, versions, and custom domains.
+    transport: [remote]
+    official: true
+    tags: [hosting, static-sites, publishing, deployment]
